@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "curry.png"
   name             : "wardell-H"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "dive in security"
   location         : "Shanghai, China"
   employer         : "Tongji University"
   uri              : # URL
@@ -33,7 +33,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-2024-4153"
   semantic         : # URL
