@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student majored in Information Security, [Tongji University](https://cs.tongji.edu.cn/). My research interest includes software safety, vulunability detection&repair, AI safety(especially in multimodal alignment and agent safety).
+My research interests lie at the intersection of **software security** and **artificial intelligence safety**. Specifically, I’m passionate about:
+
+🛡️ Software safety and secure system design
+
+🐞 Vulnerability detection and automated repair, including static/dynamic analysis and LLM-based patching
+
+🤖 AI safety, with a focus on multimodal alignment, LLM alignment, and agent robustness in complex environments
 
 
 
